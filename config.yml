@@ -1,5 +1,5 @@
 baseURL: "https://yay.qa/"
-# title: Yaroslav Yadryshnikov
+title: Yaroslav Yadryshnikov
 paginate: 5
 theme: PaperMod
 
@@ -37,6 +37,9 @@ params:
   showtoc: false
   tocopen: false
 
+  label:
+    text: Sup! 🤡
+
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
@@ -46,11 +49,6 @@ params:
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
-
-  # home-info mode
-  homeInfoParams:
-    Title: Sup! 🤡
-    Content: From Berdsk
 
   socialIcons:
     - name: vk
