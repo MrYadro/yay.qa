@@ -1,5 +1,5 @@
 baseURL: "https://yay.qa/"
-title: Yaroslav Yadryshnikov
+# title: Yaroslav Yadryshnikov
 paginate: 5
 theme: PaperMod
 
@@ -7,8 +7,6 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
-
-googleAnalytics: UA-123-45
 
 minify:
   disableXML: true
@@ -21,8 +19,8 @@ params:
   keywords: [Yaroslav Yadryshnikov, Ярослав Ядрышников]
   author: Yaroslav Yadryshnikov
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "January 2, 2006"
+  images: ["avatar.jpg"]
+  DateFormat: "2 January, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: true
 
@@ -39,28 +37,19 @@ params:
   showtoc: false
   tocopen: false
 
-  assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
-
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
+    enabled: true # needs to be explicitly set
     title: Yaroslav Yadryshnikov
     subtitle: From Berdsk
-    imageUrl: "<img location>"
+    imageUrl: "avatar.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
 
   # home-info mode
   homeInfoParams:
-    Title: Sup! 👋
+    Title: Sup! 🤡
     Content: From Berdsk
 
   socialIcons:
