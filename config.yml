@@ -19,7 +19,7 @@ params:
   keywords: [Yaroslav Yadryshnikov, Ярослав Ядрышников]
   author: Yaroslav Yadryshnikov
   # author: ["Me", "You"] # multiple authors
-  images: ["avatar.webp"]
+  images: ["android-chrome-512x512.png"]
   DateFormat: "2 January, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: true
