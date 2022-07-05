@@ -66,7 +66,7 @@ params:
     - name: linkedin
       url: "https://linkedin.com/in/yay"
     - name: strava
-      url: "https://www.strava.com/athletes/16976948"
+      url: "https://www.strava.com/athletes/mryadro"
     - name: email
       url: "mailto:me@yay.qa"
 
