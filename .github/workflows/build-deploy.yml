@@ -1,4 +1,4 @@
-name: Build and Deploy to Digital Ocean droplet
+name: Build and Deploy
 
 on:
   push:
