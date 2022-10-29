@@ -59,6 +59,8 @@ params:
       url: "https://facebook.com/mryadro"
     - name: github
       url: "https://github.com/mryadro"
+    - name: leetcode
+      url: "https://leetcode.com/MrYadro"
     - name: instagram
       url: "https://instagram.com/mryadro"
     - name: telegram
