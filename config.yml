@@ -55,6 +55,8 @@ params:
       url: "https://vk.com/yay"
     - name: twitter
       url: "https://twitter.com/mryadro"
+    - name: mastodon
+      url: "https://mstdn.social/@yay"
     - name: facebook
       url: "https://facebook.com/mryadro"
     - name: github
