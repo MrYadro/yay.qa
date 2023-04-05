@@ -37,6 +37,9 @@ params:
   showtoc: false
   tocopen: false
 
+  schema:
+    publisherType: Person
+
   label:
     text: Sup! 🤡
 
