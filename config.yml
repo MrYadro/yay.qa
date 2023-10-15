@@ -16,7 +16,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Yaroslav Yadryshnikov
   description: From Berdsk
-  keywords: [Yaroslav Yadryshnikov, Ярослав Ядрышников]
+  keywords: [Yaroslav Yadryshnikov, Ярослав Ядрышников, Iaroslav Iadryshnikov]
   author: Yaroslav Yadryshnikov
   # author: ["Me", "You"] # multiple authors
   images: ["android-chrome-512x512.png"]
