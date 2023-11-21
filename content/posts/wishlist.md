@@ -7,7 +7,7 @@ draft = false
 | name                                              | link                                                                         |
 | ------------------------------------------------- | ---------------------------------------------------------------------------- |
 | Lian Li O11D Evo XL                               | [link](https://www.dns-shop.ru/product/3704d981fb9ced20)                     |
-| AMD Ryzen 5 PRO 4650G OEM                         | [link](https://www.dns-shop.ru/product/cbe6e5b816f7ed20)                     |
+| AMD Ryzen 5 5600G OEM                             | [link](https://www.dns-shop.ru/product/6467bfc8fbfded20)                     |
 | ASRock A520M-ITX                                  | [link](https://www.dns-shop.ru/product/55c6dee49c061b80)                     |
 | Sony WH-1000XM5 Gray                              | [link](https://www.dns-shop.ru/product/a7fb0b30070aed20)                     |
 | WD Red Pro 18TB                                   | [link](https://www.dns-shop.ru/product/b4b871493edded20)                     |
