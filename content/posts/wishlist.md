@@ -13,7 +13,6 @@ draft = false
 | WD Red Pro 18TB                                   | [link](https://www.dns-shop.ru/product/b4b871493edded20)                     |
 | GIGABYTE M32U                                     | [link](https://www.dns-shop.ru/product/3aff51d7daf82ff2)                     |
 | Kingston FURY Beast White AMD RGB                 | [link](https://www.dns-shop.ru/product/83ad04d3c87ded20)                     |
-| Lian Li UNI FAN SL-INFINITY REVERSE BLADE White   | [link](https://www.dns-shop.ru/product/74b73958fad4ed20)                     |
 | LIAN LI Galahad II Trinity 240 White              | [link](https://www.dns-shop.ru/product/aeb815724adfed20)                     |
 | Google 1080p Indoor/Outdoor Nest Cam Battery      | [link](https://www.bhphotovideo.com/c/product/1657274-REG)                   |
 | Google Nest Wifi Pro Snow 2-Pack                  | [link](https://www.bhphotovideo.com/c/product/1728265-REG)                   |
@@ -27,3 +26,4 @@ draft = false
 | Pixel Tablet                                      | [link](https://store.google.com/us/config/pixel_tablet?hl=en-US&selections=) |
 | Google Pixel Stand (2nd gen)                      | [link](https://store.google.com/us/product/pixel_stand_2nd_gen?hl=en-US)     |
 | iFixit Pro Tech Toolkit                           | [link](https://www.ifixit.com/products/pro-tech-toolkit)                     |
+| Meta Quest 3                                      | [link](https://www.meta.com/quest/quest-3/)                                  |
