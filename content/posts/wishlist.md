@@ -21,7 +21,6 @@ draft = false
 | JONSBO N3 White                                   | [link](https://sl.aliexpress.ru/p?key=68vWU5b)                               |
 | Keychron Q6 Pro Knob White                        | [link](https://sl.aliexpress.ru/p?key=6RvWUB5)                               |
 | Baseus 140W GaN Charger                           | [link](https://sl.aliexpress.ru/p?key=7QvWUjJ)                               |
-| Gateron Silent Switch 110 PCS Silent Black        | [link](https://sl.aliexpress.ru/p?key=EuvWUyT)                               |
 | Pixel Tablet                                      | [link](https://store.google.com/us/config/pixel_tablet?hl=en-US&selections=) |
 | Google Pixel Stand (2nd gen)                      | [link](https://store.google.com/us/product/pixel_stand_2nd_gen?hl=en-US)     |
 | iFixit Pro Tech Toolkit                           | [link](https://www.ifixit.com/products/pro-tech-toolkit)                     |
