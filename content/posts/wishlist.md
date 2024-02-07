@@ -21,7 +21,6 @@ draft = false
 | Google Pixel Stand (2nd gen)                      | [link](https://store.google.com/us/product/pixel_stand_2nd_gen?hl=en-US)     |
 | iFixit Pro Tech Toolkit                           | [link](https://www.ifixit.com/products/pro-tech-toolkit)                     |
 | Meta Quest 3                                      | [link](https://www.meta.com/quest/quest-3/)                                  |
-| ASUS ROG STRIX B760-I GAMING WIFI                 | [link](https://www.dns-shop.ru/product/48abf6b19578ed20)                     |
 | Intel Core i5-13400                               | [link](https://www.dns-shop.ru/product/bb8a9b6f13b8342b)                     |
 | Kingston FURY Beast Black [KF556C40BBK2-32] 32 ГБ | [link](https://www.dns-shop.ru/product/e47d2e94faeaed20)                     |
 | Samsung 980 PRO                                   | [link](https://www.dns-shop.ru/product/8aa58c5df76bed20)                     |
