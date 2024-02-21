@@ -25,5 +25,4 @@ draft = false
 | Kingston FURY Beast Black [KF556C40BBK2-32] 32 ГБ | [link](https://www.dns-shop.ru/product/e47d2e94faeaed20)                     |
 | Samsung 980 PRO                                   | [link](https://www.dns-shop.ru/product/8aa58c5df76bed20)                     |
 | WD Red Pro 18TB                                   | [link](https://www.dns-shop.ru/product/b4b871493edded20)                     |
-| Jonsbo N3 Black|[link](https://www.onlinetrade.ru/catalogue/kompyuternye_korpusa-c1323/jonsbo/korpus_jonsbo_n3_black-3985141.html)|
 | Jonsbo HX6200D Black|[link](https://www.onlinetrade.ru/catalogue/kulery_dlya_protsessorov-c1492/jonsbo/kuler_dlya_protsessora_jonsbo_hx6200d_black-3329861.html)|
