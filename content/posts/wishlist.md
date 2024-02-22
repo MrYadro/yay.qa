@@ -22,7 +22,7 @@ draft = false
 | iFixit Pro Tech Toolkit                           | [link](https://www.ifixit.com/products/pro-tech-toolkit)                     |
 | Meta Quest 3                                      | [link](https://www.meta.com/quest/quest-3/)                                  |
 | Intel Core i5-13500                              | [link](https://www.dns-shop.ru/product/2e9716daa750ed20)                     |
-| Kingston FURY Beast Black [KF556C40BBK2-32] 32 ГБ | [link](https://www.dns-shop.ru/product/e47d2e94faeaed20)                     |
+| ADATA XPG Lancer | [link](https://www.dns-shop.ru/product/47bd210d7376ed20)                    |
 | Samsung 980 PRO                                   | [link](https://www.dns-shop.ru/product/8aa58c5df76bed20)                     |
 | WD Red Pro 18TB                                   | [link](https://www.dns-shop.ru/product/b4b871493edded20)                     |
 | Jonsbo HX6200D Black|[link](https://www.onlinetrade.ru/catalogue/kulery_dlya_protsessorov-c1492/jonsbo/kuler_dlya_protsessora_jonsbo_hx6200d_black-3329861.html)|
