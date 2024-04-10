@@ -21,3 +21,4 @@ draft = false
 | Google Pixel Stand (2nd gen)                      | [link](https://store.google.com/us/product/pixel_stand_2nd_gen?hl=en-US)     |
 | iFixit Pro Tech Toolkit                           | [link](https://www.ifixit.com/products/pro-tech-toolkit)                     |
 | Meta Quest 3                                      | [link](https://www.meta.com/quest/quest-3/)                                  |
+| Chipolo Point BUNDLE                              | [link](https://chipolo.net/en-us/products/chipolo-point-bundle)              |
