@@ -6,7 +6,7 @@ draft = false
 
 | name                                              | store                                                                        |
 | ------------------------------------------------- | ---------------------------------------------------------------------------- |
-| Lian Li O11D Evo XL                               | [link](https://www.dns-shop.ru/product/3704d981fb9ced20)                     |
+| LIAN LI O11 Dynamic EVO RGB                       | [link](https://www.dns-shop.ru/product/9cd82a0d8a89ed20)                     |
 | Sony WH-1000XM5 Gray                              | [link](https://www.dns-shop.ru/product/a7fb0b30070aed20)                     |
 | GIGABYTE M32U                                     | [link](https://www.dns-shop.ru/product/3aff51d7daf82ff2)                     |
 | Kingston FURY Beast White AMD RGB                 | [link](https://www.dns-shop.ru/product/83ad04d3c87ded20)                     |
@@ -22,3 +22,5 @@ draft = false
 | iFixit Pro Tech Toolkit                           | [link](https://www.ifixit.com/products/pro-tech-toolkit)                     |
 | Meta Quest 3                                      | [link](https://www.meta.com/quest/quest-3/)                                  |
 | Chipolo Point BUNDLE                              | [link](https://chipolo.net/en-us/products/chipolo-point-bundle)              |
+| Kodak Ektar H35N                                  | [link](https://www.bhphotovideo.com/c/product/1792276-REG/)                  |
+| Canon SELPHY CP150                                | [link](https://www.bhphotovideo.com/c/product/1789969-REG/)                  |
