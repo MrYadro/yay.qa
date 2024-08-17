@@ -23,4 +23,3 @@ draft = false
 | Meta Quest 3                                      | [link](https://www.meta.com/quest/quest-3/)                                  |
 | Chipolo Point BUNDLE                              | [link](https://chipolo.net/en-us/products/chipolo-point-bundle)              |
 | Kodak Ektar H35N                                  | [link](https://www.bhphotovideo.com/c/product/1792276-REG/)                  |
-| Canon SELPHY CP150                                | [link](https://www.bhphotovideo.com/c/product/1789969-REG/)                  |
