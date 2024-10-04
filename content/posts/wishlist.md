@@ -7,7 +7,6 @@ draft = false
 | name                                              | store                                                                    |
 | ------------------------------------------------- | ------------------------------------------------------------------------ |
 | LIAN LI O11 Dynamic EVO RGB                       | [link](https://www.dns-shop.ru/product/9cd82a0d8a89ed20)                 |
-| Sony WH-1000XM5 Gray                              | [link](https://www.dns-shop.ru/product/a7fb0b30070aed20)                 |
 | GIGABYTE M32U                                     | [link](https://www.dns-shop.ru/product/3aff51d7daf82ff2)                 |
 | Kingston FURY Beast White AMD RGB                 | [link](https://www.dns-shop.ru/product/83ad04d3c87ded20)                 |
 | Google 1080p Indoor/Outdoor Nest Cam Battery      | [link](https://www.bhphotovideo.com/c/product/1657274-REG)               |
