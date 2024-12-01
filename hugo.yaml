@@ -52,6 +52,8 @@ params:
   socialIcons:
     - name: vk
       url: https://vk.com/yay
+    - name: bluesky
+      url: https://bsky.app/profile/yay.qa
     - name: x
       url: https://x.com/mryadro
     - name: mastodon
