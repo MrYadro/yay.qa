@@ -13,7 +13,7 @@ draft = false
 | Google Nest Wifi Pro Snow 2-Pack             | [link](https://www.bhphotovideo.com/c/product/1728265-REG)                        |
 | Ilford HP5 Plus                              | [link](https://www.bhphotovideo.com/c/product/24745-REG)                          |
 | Portra 400                                   | [link](https://www.bhphotovideo.com/c/product/742308-USA)                         |
-| Ektachrome E100                              | [link](https://www.bhphotovideo.com/c/product/272450-USA)                         |
+| Ektachrome E100                              | [link](https://www.bhphotovideo.com/c/product/274846-USA)                         |
 | Paterson Film Processing Starter Kit         | [link](https://www.bhphotovideo.com/c/product/1519010-REG)                        |
 | Keychron Q6 Max                              | [link](https://aliexpress.ru/item/1005006677634825.html?sku_id=12000038966283125) |
 | Pixel Tablet                                 | [link](https://store.google.com/us/config/pixel_tablet?hl=en-US)                  |
