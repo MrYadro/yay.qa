@@ -15,6 +15,7 @@ draft = false
 | Portra 400                                                                                       | [link](https://www.bhphotovideo.com/c/product/742308-USA)                                          |
 | Ektachrome E100                                                                                  | [link](https://www.bhphotovideo.com/c/product/274846-USA)                                          |
 | Paterson Film Processing Starter Kit                                                             | [link](https://www.bhphotovideo.com/c/product/1519010-REG)                                         |
+| Paterson Changing Bag                                                                            | [link](https://www.bhphotovideo.com/c/product/253370-REG)                                          |
 | Keychron Q6 Max                                                                                  | [link](https://aliexpress.ru/item/1005006677634825.html?sku_id=12000038966283125)                  |
 | Pixel Tablet                                                                                     | [link](https://store.google.com/us/config/pixel_tablet?hl=en-US)                                   |
 | Meta Quest 3                                                                                     | [link](https://www.meta.com/quest/quest-3)                                                         |
