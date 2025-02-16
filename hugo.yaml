@@ -84,3 +84,7 @@ menu:
       name: wishlist
       url: posts/wishlist
       weight: 10
+    - identifier: my server
+      name: my server
+      url: posts/my-server
+      weight: 10
