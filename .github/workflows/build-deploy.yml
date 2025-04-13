@@ -34,5 +34,5 @@ jobs:
           port: ${{ secrets.PORT }}
           key: ${{ secrets.KEY }}
           source: "./public/"
-          target: "/home/user/www/"
+          target: "/var/lib/caddy/www/"
           strip_components: 2
