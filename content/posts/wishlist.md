@@ -6,8 +6,6 @@ draft = false
 
 | name                                               | store                                                                                                   |
 | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| Google 1080p Indoor/Outdoor Nest Cam Battery       | [link](https://www.bhphotovideo.com/c/product/1657274-REG)                                              |
-| Google 1080p Nest Cam Indoor Wired Snow            | [link](https://www.bhphotovideo.com/c/product/1665729-REG)                                              |
 | Ilford HP5 Plus                                    | [link](https://www.bhphotovideo.com/c/product/24745-REG)                                                |
 | Portra 400                                         | [link](https://www.bhphotovideo.com/c/product/742308-USA)                                               |
 | Paterson Film Processing Starter Kit               | [link](https://www.bhphotovideo.com/c/product/1519010-REG)                                              |
@@ -15,7 +13,6 @@ draft = false
 | Keychron Q6 Max                                    | [link](https://aliexpress.ru/item/1005006677634825.html?sku_id=12000038966283125)                       |
 | Pixel Tablet                                       | [link](https://store.google.com/us/config/pixel_tablet?hl=en-US)                                        |
 | Meta Quest 3                                       | [link](https://www.meta.com/quest/quest-3)                                                              |
-| Chipolo Point BUNDLE                               | [link](https://chipolo.net/en-us/products/chipolo-point-bundle)                                         |
 | Home Assistant Yellow Kit with Power-over-Ethernet | [link](https://www.seeedstudio.com/Home-Assistant-Yellow-Kit-with-Power-over-Ethernet-p-5673.html)      |
 | Raspberry Pi Compute Module 5 - (CM5104032)        | [link](https://www.seeedstudio.com/Raspberry-Pi-Compute-Module-CM5104032-p-6268.html)                   |
 | Home Assistant Voice                               | [link](https://www.seeedstudio.com/Home-Assistant-Voice-p-6998.html)                                    |
