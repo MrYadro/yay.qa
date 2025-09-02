@@ -19,4 +19,4 @@ draft = false
 | WD Red Pro WD161KFGX                               | [link](https://www.westerndigital.com/ru-ru/products/internal-drives/wd-red-pro-sata-hdd?sku=WD161KFGX) |
 | Dell U2723QE                                       | [link](https://www.rtings.com/monitor/reviews/dell/u2723qe)                                             |
 | Pixel Watch Performance Loop Band (Moonstone / Moonstone Stainless Steel lugs) | [link](https://store.google.com/us/product/watch_band_performance_loop?hl=en-US&selections=eyJwcm9kdWN0RmFtaWx5IjoiWkdWMmFXTmxYMlpoYldsc2VWOWZaMjl2WjJ4bFgzQnBlR1ZzWDNkaGRHTm9YMkpoYm1SZmNHVnlabTl5YldGdVkyVmZiRzl2Y0Y5bVlXMD0iLCJoZXJvUHJvZHVjdHMiOltbIlgzQnBlR1ZzWDNkaGRHTm9YMkpoYm1SZmNHVnlabTl5YldGdVkyVmZiRzl2Y0Y4ME5XMXRYMjF2YjI1emRHOXVaUT09IiwxLG51bGxdXX0%3D)|
-| Beelink Me 2T| [link](https://aliexpress.ru/item/1005004009585758.html) |
+| Beelink ME mini 2T| [link](https://aliexpress.ru/item/1005004009585758.html) |
