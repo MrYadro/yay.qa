@@ -12,12 +12,11 @@ draft = false
 | Keychron Q6 Max                                    | [link](https://aliexpress.ru/item/1005006677634825.html?sku_id=12000038966283125)                       |
 | Pixel Tablet                                       | [link](https://store.google.com/us/config/pixel_tablet?hl=en-US)                                        |
 | Meta Quest 3                                       | [link](https://www.meta.com/quest/quest-3)                                                              |
-| Home Assistant Yellow Kit with Power-over-Ethernet | [link](https://www.seeedstudio.com/Home-Assistant-Yellow-Kit-with-Power-over-Ethernet-p-5673.html)      |
-| Raspberry Pi Compute Module 5 - (CM5104032)        | [link](https://www.seeedstudio.com/Raspberry-Pi-Compute-Module-CM5104032-p-6268.html)                   |
 | Home Assistant Voice                               | [link](https://www.seeedstudio.com/Home-Assistant-Voice-p-6998.html)                                    |
 | WD Red Pro WD161KFGX                               | [link](https://www.westerndigital.com/ru-ru/products/internal-drives/wd-red-pro-sata-hdd?sku=WD161KFGX) |
 | Dell U2723QE                                       | [link](https://www.rtings.com/monitor/reviews/dell/u2723qe)                                             |
 | Pixel Watch Performance Loop Band (Moonstone / Moonstone Stainless Steel lugs) | [link](https://store.google.com/us/product/watch_band_performance_loop?hl=en-US&selections=eyJwcm9kdWN0RmFtaWx5IjoiWkdWMmFXTmxYMlpoYldsc2VWOWZaMjl2WjJ4bFgzQnBlR1ZzWDNkaGRHTm9YMkpoYm1SZmNHVnlabTl5YldGdVkyVmZiRzl2Y0Y5bVlXMD0iLCJoZXJvUHJvZHVjdHMiOltbIlgzQnBlR1ZzWDNkaGRHTm9YMkpoYm1SZmNHVnlabTl5YldGdVkyVmZiRzl2Y0Y4ME5XMXRYMjF2YjI1emRHOXVaUT09IiwxLG51bGxdXX0%3D)|
-| Beelink ME mini 2T | [link](https://aliexpress.ru/item/1005004009585758.html) |
-| Crucial P3 Plus 2ТБ x 2 | [link](https://ozon.ru/t/wWovjb2) |
-| Crucial P3 Plus 500ГБ | [link](https://ozon.ru/t/1GicCJp) |
+| Beelink ME mini 1T | [link](https://aliexpress.ru/item/1005009085036068.html?sku_id=12000050894662458) |
+| Crucial P3 Plus 2ТБ x 3 | [link](https://ozon.ru/t/wWovjb2) |
+| DJI Osmo Mobile 8  [link](https://a.co/d/e9NOZoz) |
+| DJI Mic Mini Transmitter (Arctic White) [link](https://a.co/d/aJnN8N6) |
