@@ -17,5 +17,5 @@ draft = false
 | Dell U2723QE                                       | [link](https://www.rtings.com/monitor/reviews/dell/u2723qe)                                             |
 | Beelink ME mini 1T | [link](https://aliexpress.ru/item/1005009085036068.html?sku_id=12000050894662458) |
 | Crucial P3 Plus 2ТБ x 3 | [link](https://ozon.ru/t/wWovjb2) |
-| DJI Osmo Mobile 8  [link](https://a.co/d/e9NOZoz) |
-| DJI Mic Mini Transmitter (Arctic White) [link](https://a.co/d/aJnN8N6) |
+| DJI Osmo Mobile 8 | [link](https://a.co/d/e9NOZoz) |
+| DJI Mic Mini Transmitter (Arctic White) | [link](https://a.co/d/aJnN8N6) |
