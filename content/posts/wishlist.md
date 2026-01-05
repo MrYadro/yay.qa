@@ -19,3 +19,4 @@ draft = false
 | Crucial P3 Plus 2ТБ x 3 | [link](https://ozon.ru/t/wWovjb2) |
 | DJI Osmo Mobile 8 | [link](https://a.co/d/e9NOZoz) |
 | DJI Mic Mini Transmitter (Arctic White) | [link](https://a.co/d/aJnN8N6) |
+| LTT Commuter Backpack |[link](https://www.lttstore.com/products/commuter-backpack)|
