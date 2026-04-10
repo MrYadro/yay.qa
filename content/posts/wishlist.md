@@ -14,3 +14,4 @@ draft = false
 | Meta Quest 3                                       | [link](https://www.meta.com/quest/quest-3)                                                              |
 | WD Red Pro WD161KFGX                               | [link](https://www.westerndigital.com/ru-ru/products/internal-drives/wd-red-pro-sata-hdd?sku=WD161KFGX) |
 | DJI Osmo Mobile 8 | [link](https://a.co/d/e9NOZoz) |
+| Protectli VP2430 | [link](https://protectli.com/product/vp2430/) |
